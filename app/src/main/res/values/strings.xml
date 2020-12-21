@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PayPay Currency</string>
+    <string name="input_amount_here">Input Amount</string>
+    <string name="all">All Currency:</string>
+    <string name="last_update">Last Update: %s</string>
+    <string name="select_a_currency">Select a currency</string>
+    <string name="keywords">Keywords</string>
+</resources>
